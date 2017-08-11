@@ -1,0 +1,15 @@
+{
+  "name": "geoserver-leaflet",
+  "version": "0.0.1",
+  "description": "A GeoServer Plugin for Leaflet",
+  "main": "./src/index.js",
+  "repository": "http://github.com/KroniK907/geoserver-leaflet/",
+  "author": "Daniel Kranich <Daniel@nusalaska.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "http://github.com/KroniK907/geoserver-leaflet/issues"
+  },
+  "dependencies": {
+    "leaflet": "^1.2.0"
+  }
+}
